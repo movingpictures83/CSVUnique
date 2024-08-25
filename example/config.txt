@@ -1,0 +1,2 @@
+Prefix plugins/CSVUnique/example/
+Plugin CSVUnique inputfile parameters.txt outputfile output.csv
